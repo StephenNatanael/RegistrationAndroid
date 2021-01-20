@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477003222130",
+    "firebase_url": "https://loginregisternew.firebaseio.com",
+    "project_id": "loginregisternew",
+    "storage_bucket": "loginregisternew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477003222130:android:e5d884dfc5a2c5102186eb",
+        "android_client_info": {
+          "package_name": "com.example.loginregisternew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477003222130-hjmrb6r6nhf4jjgg7fcv1lsjbirgicgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYupj6qSliZVj8Nc5HwPri5wlUKsrkPuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477003222130-hjmrb6r6nhf4jjgg7fcv1lsjbirgicgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
